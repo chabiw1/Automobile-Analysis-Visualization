@@ -1,5 +1,4 @@
-# Automobile-Analysis-Visualization
-Visualization Automobile dashbord in Web-Application 
+# Visualization Automobile dashbord in Web-Application 
 
 ## Scenario
 
