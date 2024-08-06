@@ -1,4 +1,4 @@
-# Visualization Car Sales Statistics Dashbord in Web-Application 
+# Visualization Automobile Sales Statistics Dashbord
 
 ## 🔑 Scenario
 
