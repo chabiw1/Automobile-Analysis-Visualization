@@ -10,9 +10,7 @@ I decided to develop a dashboard representing two main reports:
   - Yearly Automobile Sales Statistics
   - Recession Period Statistics
 
-
-[![Dashboard Preview](https://github.com/chabiw1/Visualization-Automobile-Dashbord-in-Web-Application/blob/main/Screen%20Recording%202567-08-07%20at%2002.45.14.MOV)
-
+![Dashboard Preview](https://github.com/chabiw1/Visualization-Automobile-Dashbord-in-Web-Application/blob/main/Screen-Recording-2567-08-07-at-02.45.14-2.gif)
 
 
 ## Component of Report Item
