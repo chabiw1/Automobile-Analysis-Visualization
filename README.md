@@ -11,42 +11,7 @@ I decided to develop a dashboard representing two main reports:
   - Recession Period Statistics
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Dashboard Preview](images/Screen-Recording-2567-08-07-at-02.45.14-2.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Dashboard Preview]([images/Screen-Recording-2567-08-07-at-02.45.14-2.gif](https://github.com/chabiw1/Visualization-Automobile-Dashbord-in-Web-Application/blob/main/Screen-Recording-2567-08-07-at-02.45.14-2.gif))
 
 
 
