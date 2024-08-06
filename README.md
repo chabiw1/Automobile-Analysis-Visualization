@@ -17,6 +17,18 @@ I decided to develop a dashboard representing two main reports:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Component of Report Item
 
 ### 1. Yearly Automobile Sales Statistics
