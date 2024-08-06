@@ -28,6 +28,8 @@ This report mainly consists of the following items:
 #### 📌 Total Advertisement Expenditure for Each Vehicle Using Pie Chart :
 - This pie chart represents the total advertising expenditure for each vehicle type in the selected year.
 
+![Screenshot 2567-08-06 at 22 48 34](https://github.com/user-attachments/assets/37e7c523-a3f6-4654-9fc0-0da9b0fd24f6)
+
 ### 2. Recession Period Statistics
 
 #### 📌 Average Automobile Sales Fluctuation Over Recession Period:
@@ -41,3 +43,9 @@ This report mainly consists of the following items:
 
 #### 📌 Effect of Unemployment Rate on Vehicle Type and Sales:
 - This bar chart shows the effect of unemployment rate on automobile sales by vehicle type during recession periods.
+
+
+
+
+![Screenshot 2567-08-06 at 22 55 29](https://github.com/user-attachments/assets/56e25124-3e02-425e-89d7-b61ae61ccc6c)
+
