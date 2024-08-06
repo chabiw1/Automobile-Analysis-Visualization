@@ -10,6 +10,12 @@ I decided to develop a dashboard representing two main reports:
   - Yearly Automobile Sales Statistics
   - Recession Period Statistics
 
+
+
+
+
+
+
 ## Component of Report Item
 
 ### 1. Yearly Automobile Sales Statistics
