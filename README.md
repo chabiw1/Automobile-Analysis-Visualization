@@ -10,29 +10,7 @@ I decided to develop a dashboard representing two main reports:
   - Yearly Automobile Sales Statistics
   - Recession Period Statistics
 
-
-
-
-
-
-
-![Uploading Screen-Recording-2567-08-07-at-02.45.14-2.gif…]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Uploading Screen-Recording-2567-08-07-at-02.45.14-2.gif…]()
 
 
 ## Component of Report Item
